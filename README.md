@@ -2,8 +2,6 @@
 <h1 align="center">Hi 👋, I'm Michael John Čverčko</h1>
 <h3 align="center">A passionate student from Slovakia</h3>
 
-<img align="right" alt="AI" width="400" src="https://aiworldschool.com/wp-content/uploads/2017/09/AI-Animation-1200x600-Article1.png")
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johnzeki&label=Profile%20views&color=0e75b6&style=flat" alt="johnzeki" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/JohnZeki?tab=repositories](https://github.com/JohnZeki?tab=repositories)
