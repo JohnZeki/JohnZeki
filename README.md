@@ -1,4 +1,3 @@
-[![MasterHead](https://media.istockphoto.com/id/846366464/vector/pattern-stripe-seamless-black-and-white-colors-diagonal-pattern-stripe-abstract-background.jpg?s=612x612&w=0&k=20&c=1CMLhR-ql-VmEnvHNDjI0926XB2CoybQv8A7IDgfbk8=)](https://github.com/JohnZeki?tab=repositories)
 
 <h1 align="center">Hi 👋, I'm Michael John Čverčko</h1>
 <h3 align="center">A passionate student from Slovakia</h3>
