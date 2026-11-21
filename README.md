@@ -6,6 +6,7 @@ od základnej školy po vysokú. Absolvent informatiky na FIIT STU.
 Python, Java, algoritmy, príprava na prijímačky, maturitu a skúšky na VŠ.
 
 Úvodná konzultácia zadarmo: https://dzono.sk
+
 Python za 7 dní (PDF zadarmo): https://dzono.sk/zadarmo/python-za-7-dni
 
 I also teach in English: https://dzono.sk/en
