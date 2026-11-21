@@ -1,12 +1,14 @@
+## Ahoj, som Michael
 
-<h1 align="center">Hi 👋, I'm Michael John Čverčko</h1>
-<h3 align="center">A passionate student from Slovakia</h3>
+Doučujem matematiku, informatiku a programovanie. Viac ako 3 000 odučených hodín,
+od základnej školy po vysokú. Absolvent informatiky na FIIT STU.
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johnzeki&label=Profile%20views&color=0e75b6&style=flat" alt="johnzeki" /> </p>
+Python, Java, algoritmy, príprava na prijímačky, maturitu a skúšky na VŠ.
 
-- 👨‍💻 All of my projects are available at [https://github.com/JohnZeki?tab=repositories](https://github.com/JohnZeki?tab=repositories)
+Úvodná konzultácia zadarmo: https://dzono.sk
+Python za 7 dní (PDF zadarmo): https://dzono.sk/zadarmo/python-za-7-dni
 
-- 📫 How to reach me **michaelcvercko123@gmail.com**
+I also teach in English: https://dzono.sk/en
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
